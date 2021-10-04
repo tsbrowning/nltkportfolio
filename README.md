@@ -1,5 +1,6 @@
 # nltkportfolio
-Highlights from the beginning of my Python NLP experience
+Highlights from the beginning of my Python NLP experience using Naturl Language Toolkit (NLTK)
+
 
 
 Lab 8 includes an automatic text summarizer of provided text examples, as well as examples from the Gutenberg Corpus.
