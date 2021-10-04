@@ -1,0 +1,32 @@
+The voiceless dental non-sibilant fricative is a type of consonantal sound used in some spoken languages. It is familiar to English speakers as the 'th' in think. Though rather rare as a phoneme in the world's inventory of languages, it is encountered in some of the most widespread and influential (see below). The symbol in the International Phonetic Alphabet that represents this sound is ⟨θ⟩, and the equivalent X-SAMPA symbol is T. The IPA symbol is the Greek letter theta, which is used for this sound in post-classical Greek, and the sound is thus often referred to as "theta".
+
+The dental non-sibilant fricatives are often called "interdental" because they are often produced with the tongue between the upper and lower teeth, and not just against the back of the upper or lower teeth, as they are with other dental consonants.
+
+This sound and its voiced counterpart are rare phonemes occurring in 4% of languages in a phonological analysis of 2,155 languages.[1] Among the more than 60 languages with over 10 million speakers, only English, various dialects of Arabic, Standard European Spanish, Swahili (in words derived from Arabic), and Greek have the voiceless dental non-sibilant fricative.[citation needed] Speakers of languages and dialects without the sound sometimes have difficulty producing or distinguishing it from similar sounds, especially if they have had no chance to acquire it in childhood, and typically replace it with a voiceless alveolar fricative (/s/) (as in Indonesian), voiceless dental stop (/t/), or a voiceless labiodental fricative (/f/); known respectively as th-alveolarization, th-stopping,[2] and th-fronting.[3]
+
+The sound is known to have disappeared from a number of languages, e.g. from most of the Germanic languages or dialects, where it is retained only in Scots, English, Elfdalian, and Icelandic, but it is alveolar in the last of these.[4][5] Among non-Germanic Indo-European languages as a whole, the sound was also once much more widespread, but is today preserved in a few languages including the Brythonic languages, Peninsular Spanish, Galician, Venetian, Albanian, few Occitan dialects and Greek. It has likewise disappeared from many Semitic languages, such as Hebrew (excluding Yemenite Hebrew) and many modern varieties of Arabic (excluding Tunisian, Mesopotamian Arabic and various dialects in the Arabian Peninsula).
+
+Features
+Features of the voiceless dental non-sibilant fricative:
+
+Its manner of articulation is fricative, which means it is produced by constricting air flow through a narrow channel at the place of articulation, causing turbulence. It does not have the grooved tongue and directed airflow, or the high frequencies, of a sibilant.
+Its place of articulation is dental, which means it is articulated with either the tip or the blade of the tongue at the upper teeth, termed respectively apical and laminal. Note that most stops and liquids described as dental are actually denti-alveolar.
+Its phonation is voiceless, which means it is produced without vibrations of the vocal cords. In some languages the vocal cords are actively separated, so it is always voiceless; in others the cords are lax, so that it may take on the voicing of adjacent sounds.
+It is an oral consonant, which means air is allowed to escape through the mouth only.
+It is a central consonant, which means it is produced by directing the airstream along the center of the tongue, rather than to the sides.
+The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds.
+
+The voiceless denti-alveolar sibilant is the only sibilant fricative in some dialects of Andalusian Spanish. It has no official symbol in the International Phonetic Alphabet, though its features would be transcribed ⟨s̻̪⟩ or ⟨s̪̻⟩ (using the ⟨◌̻⟩, the diacritic marking a laminal consonant, and ⟨◌̪⟩, the diacritic marking a dental consonant). It is usually represented by an ad-hoc symbol such as ⟨s̄⟩, ⟨θˢ̣⟩, or ⟨s̟⟩ (advanced diacritic).
+
+Dalbor (1980) describes this sound as follows: "[s̄] is a voiceless, corono-dentoalveolar groove fricative, the so-called s coronal or s plana because of the relatively flat shape of the tongue body.... To this writer, the coronal [s̄], heard throughout Andalusia, should be characterized by such terms as "soft," "fuzzy," or "imprecise," which, as we shall see, brings it quite close to one variety of /θ/ ... Canfield has referred, quite correctly, in our opinion, to this [s̄] as "the lisping coronal-dental," and Amado Alonso remarks how close it is to the post-dental [θ̦], suggesting a combined symbol [θˢ̣] to represent it".
+
+Features
+Features of the voiceless denti-alveolar sibilant:
+
+Its manner of articulation is sibilant fricative, which means it is generally produced by channeling air flow along a groove in the back of the tongue up to the place of articulation, at which point it is focused against the sharp edge of the nearly clenched teeth, causing high-frequency turbulence.
+Its place of articulation is denti-alveolar, which means it is articulated with a flat tongue against the alveolar ridge and upper teeth.
+It is normally laminal, which means it is pronounced with the blade of the tongue.[16]
+Its phonation is voiceless, which means it is produced without vibrations of the vocal cords. In some languages the vocal cords are actively separated, so it is always voiceless; in others the cords are lax, so that it may take on the voicing of adjacent sounds.
+It is an oral consonant, which means air is allowed to escape through the mouth only.
+Its manner of articulation is fricative, which means it is produced by constricting air flow through a narrow channel at the place of articulation, causing turbulence.
+The airstream mechanism is pulmonic, which means it is articulated by pushing air solely with the lungs and diaphragm, as in most sounds.
