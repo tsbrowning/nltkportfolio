@@ -3,7 +3,7 @@ Highlights from the beginning of my Python NLP experience using Naturl Language 
 
 
 
--Lab 8 includes an automatic text summarizer of provided text examples, as well as examples from the Gutenberg Corpus.
+-Lab 8 includes an automatic text summarizer of provided text examples, as well as examples from the Brown and Gutenberg corpora.
 
 -Lab 7 includes a tool to check whether a token appears more frequently as a noun or a verb in the Brown corpus, as well as a generator of random tokens from Brown, selected through POS tags.
 
